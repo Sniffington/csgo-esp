@@ -30,4 +30,4 @@ You need to use Siticone UI and Costura.Fody (Nuget packages) in visual studio t
 **Movement**
  - Auto BHop
 
-This is an edited version of Zbase CSGO uploaded by Coopyy
+**This is an edited version of Zbase CSGO uploaded by Coopyy**
