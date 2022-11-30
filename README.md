@@ -8,7 +8,7 @@ You need to use Siticone UI and Costura.Fody (NuGet packages) in visual studio t
 
 **In-game**: ![image](https://user-images.githubusercontent.com/68871451/204049695-4ab0d5ec-2f90-47ae-a624-f02ad3cc8cc6.png)
 
-**Visuals**
+ **[Visuals]**
  - Enemy 2D Box
  - Friendly 2D Box
  - Corner Boxes
@@ -20,12 +20,12 @@ You need to use Siticone UI and Costura.Fody (NuGet packages) in visual studio t
  - Chams (Internal)
  - Reset Chams
 
-**Misc**
+**[Misc]**
  - Crosshair
  - FOV Circle
  - Watermark
 
-**Movement**
+**[Movement]**
  - Auto BHop
 
 **This is an edited version of Zbase CSGO uploaded by Coopyy ( https://github.com/Coopyy/ZBase-CSGO )**
